@@ -1,0 +1,12 @@
+<?php
+
+    define("GREETING", "hello world!");
+    echo GREETING;
+    echo "\n";
+    echo GREETING;
+    echo "<br>";
+    echo "Code executed by Garvit Khulbe (2220100280)"
+   
+
+
+?>

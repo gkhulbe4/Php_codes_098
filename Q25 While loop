@@ -1,0 +1,13 @@
+<?php
+
+    $i = 1;
+    while ($i <= 10)
+    {
+        echo $i;  
+        echo "\t";
+        $i++;
+    }
+echo "<br>";
+echo "Code executed by Garvit Khulbe (2220100280)"
+
+?>

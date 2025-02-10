@@ -1,0 +1,10 @@
+<?php
+
+    // Open a file for reading
+    $handle = fopen("note.txt", "r");
+    var_dump($handle);
+    echo "<br>";
+
+    echo "Code executed by Garvit Khulbe (2220100280)"
+ 
+?>
